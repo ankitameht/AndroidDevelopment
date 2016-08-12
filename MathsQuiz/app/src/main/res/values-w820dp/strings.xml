@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TrueButton">True Button</string>
+    <string name="FalseButton">False Button</string>
+    <string name="NextButton">Next</string>
+    <string name="question">Is this a good question?</string>
+</resources>

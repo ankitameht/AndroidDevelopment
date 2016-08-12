@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maths Quiz</string>
+    <string name="TrueButton">Correct</string>
+    <string name="FalseButton">Incorrect</string>
+    <string name="NextButton">Next</string>
+    <string name="question">Is this a good question?</string>
+</resources>
