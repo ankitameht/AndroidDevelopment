@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     {
         super.onPause();
         Log.d(TAG,"Inside OnPause");
-    }
+    }  
 
     @Override
     public void onResume(){
