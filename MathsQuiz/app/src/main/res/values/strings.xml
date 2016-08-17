@@ -5,5 +5,5 @@
     <string name="NextButton">Next</string>
     <string name="Incorrect">You are wrong!</string>
     <string name="Correct">You are correct!</string>
-    <string name="question">Is this a good question?</string>
+    <string name="question">Is this a prime Number?</string>
 </resources>
