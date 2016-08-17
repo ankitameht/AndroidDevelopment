@@ -3,5 +3,7 @@
     <string name="TrueButton">Correct</string>
     <string name="FalseButton">Incorrect</string>
     <string name="NextButton">Next</string>
+    <string name="Incorrect">You are wrong!</string>
+    <string name="Correct">You are correct!</string>
     <string name="question">Is this a good question?</string>
 </resources>
